@@ -10,18 +10,18 @@ Let me know if you have any questions, peter.schaadt@gmail.com
 
 ## Screenshots
 
-![Home Page](/screenshots/home_page.png 'Home Page')
+![Home Page](/screenshots/home_page.png "Home Page")
 
-![Chatroom List](/screenshots/chatroom_list.png 'Chatroom List')
+![Chatroom List](/screenshots/chatroom_list.png "Chatroom List")
 
-![Create Chatroom](/screenshots/chatroom_create.png 'Create Chatroom')
+![Create Chatroom](/screenshots/chatroom_create.png "Create Chatroom")
 
-![Chatroom View 1](/screenshots/chatroom_view2.png 'Chatroom View 1')
+![Chatroom View 1](/screenshots/chatroom_view2.png "Chatroom View 1")
 
-![Chatroom View 2](/screenshots/chatroom_view3.png 'Chatroom View 2')
+![Chatroom View 2](/screenshots/chatroom_view3.png "Chatroom View 2")
 
-![Empty Chatroom](/screenshots/chatroom_empty.png 'Empty Chatroom')
+![Empty Chatroom](/screenshots/chatroom_empty.png "Empty Chatroom")
 
-![Post Message](/screenshots/message_create.png 'Post Message')
+![Post Message](/screenshots/message_create.png "Post Message")
 
-![User Profile](/screenshots/user_profile.png 'User Profile')
+![User Profile](/screenshots/user_profile.png "User Profile")
